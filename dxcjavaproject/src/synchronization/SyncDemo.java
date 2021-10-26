@@ -46,7 +46,8 @@ public class SyncDemo {
 		 
 		 System.out.println("count" + c.count);
 
-	 }}
+		 
+}}
 		 
 
 	

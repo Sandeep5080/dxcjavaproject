@@ -1,5 +1,7 @@
 package collections;
 
+import java.util.Iterator;
+
 public class LinkedList {
 	Node head;
 	public void insert(int data)
@@ -34,4 +36,20 @@ public class LinkedList {
 	  }
 	  System.out.println(node.data);
   }
+public void add(String string) {
+	// TODO Auto-generated method stub
+	
+}
+public void add(int i, int x) {
+	// TODO Auto-generated method stub
+	
+}
+public void remove(int y) {
+	// TODO Auto-generated method stub
+	
+}
+public Iterator<Integer> iterator() {
+	// TODO Auto-generated method stub
+	return null;
+}
 }

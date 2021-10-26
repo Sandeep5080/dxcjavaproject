@@ -11,10 +11,8 @@ public class ArrayListExample {
 	  list.add("Banana");    
 	  list.add("Grapes");    
 	   
-	  Iterator itr=list.iterator();
-	  while(itr.hasNext()){
-	   System.out.println(itr.next());
-	  }
+	  for(String fruit:list)    
+		    System.out.println(fruit);  
 	 }  
 	}  
 

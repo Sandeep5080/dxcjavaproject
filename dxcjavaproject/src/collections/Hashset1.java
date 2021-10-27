@@ -3,6 +3,7 @@ package collections;
 
 import java.util.HashSet;
 
+
 public class Hashset1 {
 	
 
@@ -15,8 +16,9 @@ public class Hashset1 {
      h.add(89);
      h.add(80);
      
+     h.add(34);
      h.remove(80);
-     
+     h.clear();
      System.out.println(h);
      
  }}

@@ -17,7 +17,10 @@ public class Hashset {
 		           {  
 		           System.out.println(i.next());  
 		           }  
-		 }  
-		}  
+		 }
+
+	
+	}  
+		 
 
 

@@ -3,7 +3,7 @@ package unittest;
 import java.util.ArrayList;
 import java.util.List;
 
-public class JunitTestCaseExample {
+public class TestJunitTest {
 	private List<String> students = new ArrayList<String>();  
 	  
     public void remove(String name) {  
